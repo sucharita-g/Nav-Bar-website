@@ -10,7 +10,11 @@ This is a simple and visually appealing **Travel Website Header** built using **
 🚀 [View the Project Here](https://sucharita-g.github.io/Nav-Bar-website/)
 
 ---
+## Project Overview
 
+Screenshot : Screenshot 2025-06-28 115121.png
+
+---
 ## 💡 Features
 
 * 🌐 Responsive navigation bar with logo and links
