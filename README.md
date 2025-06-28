@@ -11,12 +11,6 @@ This is a simple and visually appealing **Travel Website Header** built using **
 
 ---
 
-## 📸 Project Preview
-> Example:
-> ![Screenshot](preview.jpg)
-
----
-
 ## 💡 Features
 
 * 🌐 Responsive navigation bar with logo and links
